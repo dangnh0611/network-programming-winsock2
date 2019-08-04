@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\dangn\onedrive\documents\visual studio 2015\projects\homework03\task1_server\main.cpp(47): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  threads.cpp
+  Task1_Server.vcxproj -> C:\Users\dangn\OneDrive\Documents\Visual Studio 2015\Projects\Homework03\Debug\Task1_Server.exe
+  Task1_Server.vcxproj -> C:\Users\dangn\OneDrive\Documents\Visual Studio 2015\Projects\Homework03\Debug\Task1_Server.pdb (Partial PDB)

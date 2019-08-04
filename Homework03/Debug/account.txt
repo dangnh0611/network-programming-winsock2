@@ -1,0 +1,7 @@
+admin admin123 1
+tungbt abc123 1
+test guessme 0
+dang 12345 1
+dangnh 123 0
+evil 123 0
+devil 123 1

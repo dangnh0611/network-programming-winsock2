@@ -1,0 +1,6 @@
+﻿  main.c
+c:\users\dangn\onedrive\documents\visual studio 2015\projects\homework02\task1_client\main.c(24): warning C4018: '<': signed/unsigned mismatch
+  communicate.c
+  Generating Code...
+  Task1_Client.vcxproj -> C:\Users\dangn\OneDrive\Documents\Visual Studio 2015\Projects\Homework02\Debug\Task1_Client.exe
+  Task1_Client.vcxproj -> C:\Users\dangn\OneDrive\Documents\Visual Studio 2015\Projects\Homework02\Debug\Task1_Client.pdb (Partial PDB)
